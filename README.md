@@ -17,7 +17,6 @@
 
 ---
 
-[![Démo M-SafeBox](https://img.youtube.com/vi/la5XCbIoYKk/0.jpg)](https://youtu.be/la5XCbIoYKk)
 
 
 ## Installation
@@ -27,4 +26,7 @@
 ```bash
 git clone https://github.com/amairiya/M-SafeBox-Tools.git
 cd M-SafeBox-Tools
+```
+## Demo
 
+[![Démo M-SafeBox](https://img.youtube.com/vi/la5XCbIoYKk/0.jpg)](https://youtu.be/la5XCbIoYKk)
