@@ -6,7 +6,7 @@
 
 ## Demo
 
-[![Démo M-SafeBox](https://img.youtube.com/vi/0.jpg)](https://youtu.b)
+[![Démo M-SafeBox](https://youtu.be/o5Bz-F_aDnA/0.jpg)](https://youtu.be/o5Bz-F_aDnA)
 
 ---
 
