@@ -23,4 +23,4 @@
 
 ```bash
 git clone https://github.com/amairiya/M-SafeBox-Tools.git
-cd M-SafeBox
+cd M-SafeBox-Tools
