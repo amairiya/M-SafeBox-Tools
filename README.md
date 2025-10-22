@@ -17,8 +17,8 @@
 
 ---
 
-[![M-SafeBox Demo](https://youtu.be/la5XCbIoYKk/0.jpg)]((https://youtu.be/la5XCbIoYKk))
-https://www.youtube.com/watch?v=VIDEO_ID](https://youtu.be/la5XCbIoYKk
+[![Démo M-SafeBox](https://img.youtube.com/vi/la5XCbIoYKk/0.jpg)](https://youtu.be/la5XCbIoYKk)
+
 
 ## Installation
 
