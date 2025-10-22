@@ -22,5 +22,5 @@
 1. **Clone the repository:**
 
 ```bash
-git clone https://github.com/<your-username>/M-SafeBox.git
+git clone https://github.com/amairiya/M-SafeBox-Tools.git
 cd M-SafeBox
