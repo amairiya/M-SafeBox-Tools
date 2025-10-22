@@ -4,9 +4,11 @@
 
 ---
 
-## Demo
+## 🎥 Watch the Demo
 
-[![Démo M-SafeBox](https://youtu.be/o5Bz-F_aDnA/0.jpg)](https://youtu.be/o5Bz-F_aDnA)
+[![Watch the video](https://img.youtube.com/vi/o5Bz-F_aDnA/maxresdefault.jpg)](https://youtu.be/o5Bz-F_aDnA)
+
+Click the image above to watch the full demo of **M-SafeBox** on YouTube.
 
 ---
 
